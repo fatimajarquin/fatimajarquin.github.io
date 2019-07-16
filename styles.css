@@ -1,0 +1,30 @@
+html{
+   width: 800px;
+   background-color: ff99cc;
+   position: center;
+   family-font: verdana;}
+body {
+   background-color:990066;
+   border: double 5px;
+   padding: 10px;
+    color: white;
+   font-family: verdana:}
+h1{
+   color:violet;}
+   border-bottom: solid 2px
+   text-align: center;}
+p{
+   color: blue;}
+
+.caption {
+   font-size: 3px;
+   font-variant:small-
+caps:}
+
+img{
+  border-radius: 8px;
+  border: solid 3px red;
+  padding: 5px;
+float: right;
+margin-bottom= 15px;}
+  
